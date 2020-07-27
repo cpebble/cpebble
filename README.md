@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello World
 
-<!--
-**mrcpj1998/mrcpj1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started this github before i started high-school.  
+Since then:
+- The amount of code i write has increased substantially
+- The quality of code i write has increased marginally
+- The amount of swearing in my commit logs has stayed the same
 
-Here are some ideas to get you started:
+I have mainly transitioned into using a tech stack of:
+- F# for functional math-heavy stuff(mainly uni calculations)
+- Python for scripting and for backend development
+- C for something i need to go really fast(gonna learn rust at some point)
+- Javascript for writing visually appealing visualizations and graphics demos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Boring ass todo
+If you're cyberstalking me for a job/project, here is my plan for the next couple of years
+- [x] Get the fuck out of high school
+- [x] Start studying CompSci(datalogi) at Copenhagen university
+- [ ] Get my Bsc. degree in 2021
+- [ ] Get my Masters degree in 2023
+- [ ] Get a job and work full-time again
+- [ ] Become the greatest systems architect the world has ever known
