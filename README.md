@@ -16,7 +16,7 @@ I have mainly transitioned into using a tech stack of:
 If you're cyberstalking me for a job/project, here is my plan for the next couple of years
 - [x] Get the fuck out of high school
 - [x] Start studying CompSci(datalogi) at Copenhagen university
-- [ ] Get my Bsc. degree in 2021
+- [x] Get my Bsc. degree in 2021
 - [ ] Get my Masters degree in 2023
 - [ ] Get a job and work full-time again
 - [ ] Become the greatest systems architect the world has ever known
