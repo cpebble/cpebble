@@ -20,3 +20,7 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 - [ ] Get my Masters degree in 2023
 - [ ] Get a job and work full-time again
 - [ ] Become the greatest systems architect the world has ever known
+
+## Wakatime stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
