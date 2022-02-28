@@ -23,4 +23,9 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 
 ## Wakatime stats
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
