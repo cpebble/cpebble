@@ -7,7 +7,8 @@ Since then:
 - The amount of swearing in my commit logs has stayed the same
 
 I have mainly transitioned into using a tech stack of:
-- F# for functional math-heavy stuff(mainly uni calculations)
+- ~~F# for functional math-heavy stuff(mainly uni calculations)~~
+- Haskell for functional stuff, and some hobby language development
 - Python for scripting and for backend development
 - C for something i need to go really fast(gonna learn rust at some point)
 - Javascript for writing visually appealing visualizations and graphics demos
