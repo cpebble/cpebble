@@ -26,7 +26,9 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+sh     33 mins         ██████████████████████▓░░   91.23 %
+Ruby   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Bash   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
 ```
 
 <!--END_SECTION:waka-->
