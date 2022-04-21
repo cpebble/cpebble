@@ -26,9 +26,10 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```text
-sh     33 mins         ██████████████████████▓░░   91.23 %
-Ruby   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-Bash   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+sh      1 hr 15 mins    ██████████████████████░░░   87.74 %
+Ruby    8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+Bash    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
