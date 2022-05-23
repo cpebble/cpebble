@@ -26,12 +26,12 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```text
-sh         6 hrs 21 mins   ████████████░░░░░░░░░░░░░   47.58 %
-Assembly   4 hrs 31 mins   ████████▒░░░░░░░░░░░░░░░░   33.88 %
-Python     1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-Markdown   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-C          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Java       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+sh         6 hrs 12 mins   ███████████████▒░░░░░░░░░   61.58 %
+Python     2 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   20.57 %
+Markdown   57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+Assembly   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Java       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+exports    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
