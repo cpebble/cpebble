@@ -26,12 +26,12 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```text
-sh           5 hrs 33 mins   ███████████████████░░░░░░   75.35 %
-C#           1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-Bash         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-C            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Makefile     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+sh           6 hrs 5 mins    ██████████████████▓░░░░░░   74.68 %
+C#           1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Bash         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+C            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
