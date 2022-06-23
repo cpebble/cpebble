@@ -26,12 +26,12 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```text
-Assembly    4 hrs 50 mins   ████████▒░░░░░░░░░░░░░░░░   33.06 %
-TeX         3 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
-sh          3 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   23.82 %
-Markdown    1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-Python      20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-BibTeX      18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Assembly    4 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   36.58 %
+sh          3 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
+TeX         2 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
+Markdown    1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+Python      20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+C           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
