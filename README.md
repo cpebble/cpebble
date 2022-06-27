@@ -26,12 +26,8 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```text
-Assembly   3 hrs           █████████████░░░░░░░░░░░░   51.79 %
-Markdown   1 hr 18 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
-sh         46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-Text       25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-C          16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Text   25 mins         ███████████████░░░░░░░░░░   60.27 %
+sh     16 mins         ██████████░░░░░░░░░░░░░░░   39.73 %
 ```
 
 <!--END_SECTION:waka-->
