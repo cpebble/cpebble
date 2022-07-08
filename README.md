@@ -26,11 +26,12 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   16 mins         ████████████▓░░░░░░░░░░░░   51.33 %
-sh           15 mins         ███████████▓░░░░░░░░░░░░░   47.11 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-xdefaults    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+sh           36 mins         █████████████████░░░░░░░░   68.13 %
+JavaScript   16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.29 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+xdefaults    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
