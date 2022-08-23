@@ -26,12 +26,12 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```text
-sh           4 hrs 39 mins   █████████▓░░░░░░░░░░░░░░░   38.81 %
-Solidity     3 hrs 31 mins   ███████▒░░░░░░░░░░░░░░░░░   29.35 %
-TeX          1 hr 32 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-JavaScript   51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-Haskell      51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+sh           3 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   34.13 %
+TeX          2 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   28.02 %
+Solidity     2 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
+Haskell      51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+JavaScript   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+BibTeX       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
