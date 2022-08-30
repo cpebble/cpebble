@@ -26,10 +26,8 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```text
-TeX        1 hr 9 mins     ███████████████▒░░░░░░░░░   61.05 %
-sh         38 mins         ████████▒░░░░░░░░░░░░░░░░   33.88 %
-Solidity   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+sh      37 mins         █████████████████████████   99.84 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
