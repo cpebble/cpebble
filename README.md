@@ -26,9 +26,9 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```text
-Python     1 hr 18 mins    █████████▓░░░░░░░░░░░░░░░   38.19 %
-sh         1 hr 9 mins     ████████▒░░░░░░░░░░░░░░░░   33.83 %
-TeX        57 mins         ███████░░░░░░░░░░░░░░░░░░   27.85 %
+Python     1 hr 18 mins    █████████▓░░░░░░░░░░░░░░░   38.15 %
+sh         1 hr 10 mins    ████████▒░░░░░░░░░░░░░░░░   33.90 %
+TeX        57 mins         ███████░░░░░░░░░░░░░░░░░░   27.83 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
