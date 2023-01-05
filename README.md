@@ -26,10 +26,10 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```text
-Solidity     37 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
-JavaScript   36 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
-sh           34 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
-Other        16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+sh           41 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.42 %
+Solidity     37 mins         ██████░░░░░░░░░░░░░░░░░░░   24.16 %
+JavaScript   37 mins         ██████░░░░░░░░░░░░░░░░░░░   24.06 %
+Other        16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
 ```
 
 <!--END_SECTION:waka-->
