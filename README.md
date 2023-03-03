@@ -26,12 +26,12 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```text
-sh          1 hr 54 mins    ███████████████████████░░   92.01 %
-Haskell     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-i3config    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-sshconfig   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Python      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-C           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+sh           1 hr 59 mins    ██████████████████████▓░░   90.82 %
+Haskell      7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Lua          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+sshconfig    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Vim Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
