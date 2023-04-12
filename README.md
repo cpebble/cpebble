@@ -26,7 +26,7 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```text
-Other              5 hrs 25 mins   ██████████████████▒░░░░░░   73.36 %
+Other              3 hrs 13 mins   ████████████████████████░   96.13 %
 ```
 
 <!--END_SECTION:waka-->
