@@ -25,7 +25,7 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 ## Wakatime stats
 <!--START_SECTION:waka-->
 
-```text
+```txt
 YAML            3 hrs           ████████▒░░░░░░░░░░░░░░░░   32.79 %
 sh              2 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.33 %
 Other           1 hr 55 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
