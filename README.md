@@ -26,9 +26,11 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       30 mins         ██████████████▓░░░░░░░░░░   58.80 %
-sh         20 mins         ██████████▒░░░░░░░░░░░░░░   40.97 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Rust         4 hrs 32 mins   ██████████████████▒░░░░░░   72.82 %
+sh           1 hr 18 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
+Lua          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
