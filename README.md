@@ -26,11 +26,11 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 2 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   30.25 %
-sh                         2 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.08 %
-Other                      1 hr 37 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-JavaScript                 24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-JSON                       22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Rust                       2 hrs 35 mins   █████████░░░░░░░░░░░░░░░░   35.87 %
+sh                         2 hrs 23 mins   ████████▒░░░░░░░░░░░░░░░░   33.20 %
+Other                      55 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+JSON                       21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Nginx configuration file   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
 ```
 
 <!--END_SECTION:waka-->
