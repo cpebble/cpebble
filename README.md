@@ -26,10 +26,11 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```txt
-Other   49 mins         ███████████████████▒░░░░░   77.36 %
-sh      10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
-Bash    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Nix     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+TypeScript      50 mins         ███████████░░░░░░░░░░░░░░   43.92 %
+Other           40 mins         ████████▓░░░░░░░░░░░░░░░░   34.77 %
+CSS             13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+sh              10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+ansible_hosts   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
