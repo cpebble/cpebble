@@ -26,10 +26,10 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 6 mins    ██████████████████░░░░░░░   72.16 %
-Other        33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
-sh           15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   2 hrs 6 mins    ██████████████████░░░░░░░   72.27 %
+Other        33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
+sh           14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
