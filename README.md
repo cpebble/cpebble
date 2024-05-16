@@ -26,9 +26,9 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     5 hrs 19 mins   █████████████████████░░░░   83.95 %
-sh           53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
-conf         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Markdown     5 hrs 19 mins   ████████████████████▓░░░░   82.41 %
+sh           1 hr            ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+conf         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
