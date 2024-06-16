@@ -26,11 +26,11 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```txt
-TeX                        3 hrs 52 mins   █████████████▒░░░░░░░░░░░   53.56 %
-sh                         1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-Other                      50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-Markdown                   31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-YAML                       29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+TeX                        3 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   35.46 %
+Other                      2 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.36 %
+sh                         1 hr 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
+YAML                       58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Markdown                   41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
 ```
 
 <!--END_SECTION:waka-->
