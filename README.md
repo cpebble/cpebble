@@ -26,11 +26,11 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```txt
-TeX              4 hrs 15 mins   ███████████████▒░░░░░░░░░   61.17 %
-sh               2 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   29.54 %
-Embedded Ragel   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-Bash             10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Haskell          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+TeX              6 hrs 30 mins   ████████████████▒░░░░░░░░   65.21 %
+sh               2 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
+Embedded Ragel   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Bash             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Prolog           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
