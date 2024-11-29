@@ -26,11 +26,11 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 hrs 51 mins   ██████████████████████▓░░   90.53 %
-sh      11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-YAML    5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-fstab   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other       3 hrs 24 mins   ███████████████░░░░░░░░░░   60.31 %
+Python      51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+HTML        44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+Caddyfile   28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+YAML        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
