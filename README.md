@@ -18,9 +18,8 @@ If you're cyberstalking me for a job/project, here is my plan for the next coupl
 - [x] Get the fuck out of high school
 - [x] Start studying CompSci(datalogi) at Copenhagen university
 - [x] Get my Bsc. degree in 2021
-- [ ] Get my Masters degree in 2023
+- [ ] Get my Masters degree in ~2023~ 2025
 - [ ] Get a job and work full-time again
-- [ ] Become the greatest systems architect the world has ever known
 
 ## Wakatime stats
 <!--START_SECTION:waka-->
